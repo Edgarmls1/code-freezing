@@ -1,0 +1,8 @@
+glass_breaker_group:
+  - Edgarmls1
+  - root
+
+freezing_dates:
+  from: 2025-11-04
+  to: 2025-11-24
+
