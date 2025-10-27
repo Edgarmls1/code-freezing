@@ -1,8 +1,12 @@
-glass_breaker_group:
+bypass_group:
   - Edgarmls1
   - root
 
 freezing_dates:
-  from: 2025-11-04
-  to: 2025-11-24
+  Cop 30:
+    from: 2025-11-04
+    to: 2025-11-24
+  End of the Year:
+    from: 2025-12-24
+    to: 2026-01-02
 
